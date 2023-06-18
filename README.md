@@ -7,4 +7,6 @@
 * Padronização de nomenclatura das classes de CSS (metodologia BEM);
 * Organização e estrutura de arquivos .css;
 * Separação de responsabilidades;
-* a criar e manter arquivos menores.
+* Criação e manutenção arquivos menores.
+* Boas praticas com imagens (imagens ilustrativas devem estar referenciadas em arquivos .css)
+
