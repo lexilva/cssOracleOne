@@ -9,4 +9,6 @@
 * Separação de responsabilidades;
 * Criação e manutenção arquivos menores.
 * Boas praticas com imagens (imagens ilustrativas devem estar referenciadas em arquivos .css)
+* Como Tornar um site responsivo;
+* Como configurar a adaptação do site a diferentes tamanhos de tela.
 
